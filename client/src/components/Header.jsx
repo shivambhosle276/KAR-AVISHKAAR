@@ -73,7 +73,7 @@ navigate(`/search?${searchQuery}`);
   className="self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white"
 >
   <span className="px-2 py-1 bg-gradient-to-r from-orange-500 via-red-500 to-yellow-500 rounded-lg text-white">
-    Event
+    ORANGE_TEST_123
   </span>
   Management
 </Link>
