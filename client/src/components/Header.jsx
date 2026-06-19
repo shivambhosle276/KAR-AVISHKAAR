@@ -72,7 +72,9 @@ navigate(`/search?${searchQuery}`);
         to="/"
         className="self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white"
       >
-        <span className="px-2 py-1 bg-gradient-to-r from-cyan-500 via-blue-500 to-violet-500 rounded-lg text-white">
+        <span className="<span className="px-2 py-1 bg-gradient-to-r from-orange-500 via-red-500 to-yellow-500 rounded-lg text-white">
+  Event
+</span>">
           Event 
         </span>
         Management
