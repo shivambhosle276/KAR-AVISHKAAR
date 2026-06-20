@@ -45,7 +45,7 @@ function FooterComp() {
               <Footer.Title title="Follow Us" />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href="https://github.com/suhas3145/Innodev_24"
+                  href="https://github.com/shivambhosle276/KAR-AVISHKAAR"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -86,7 +86,7 @@ function FooterComp() {
             <Footer.Icon href="#" icon={BsFacebook} />
             <Footer.Icon href="#" icon={BsInstagram} />
             <Footer.Icon href="#" icon={BsTwitter} />
-            <Footer.Icon href="https://github.com/suhas3145/Innodev_24" icon={BsGithub} />
+            <Footer.Icon href="https://github.com/shivambhosle276/KAR-AVISHKAAR" icon={BsGithub} />
             <Footer.Icon href="#" icon={BsDribbble} />
           </div>
         </div>
